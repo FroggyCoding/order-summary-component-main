@@ -8,7 +8,7 @@
 
 - Challenge: [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
-- Solution: [My solution](https://froggycoding.github.io/NFT-preview-card-component/)
+- Solution: [My solution](https://froggycoding.github.io/order-summary-component-main/)
 
 ### Built with
 
